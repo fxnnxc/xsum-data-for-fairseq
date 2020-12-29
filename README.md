@@ -1,6 +1,9 @@
 # xsum-data-for-fairseq
 make fairseq data structure for xsum
 
+<p align="left">
+  <img src=https://img.shields.io/badge/Python-v3.6.8-green?style=flat&logo=python height=30px></a> 
+</p>
 
 ## Get the hugging face dataset 
 
