@@ -7,6 +7,9 @@ make fairseq data structure for xsum
 
 ## Get the hugging face dataset 
 
+
+This data structure based on huggingface datasets .
+
 You can find repo [here](https://github.com/huggingface/datasets)
 
 ```
