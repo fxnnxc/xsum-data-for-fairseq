@@ -10,6 +10,10 @@ make fairseq data structure for xsum
 You can find repo [here](https://github.com/huggingface/datasets)
 
 ```
+pip install datasets
+
+or
+
 git clone https://github.com/huggingface/datasets
 pip install -e .
 ```
